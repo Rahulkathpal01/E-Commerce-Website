@@ -273,20 +273,4 @@ Project Link: [https://github.com/sachuverma/React-E-Commerce-v2-v2](https://git
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sachuverma/React-E-Commerce-v2.svg?style=for-the-badge
-[contributors-url]: https://github.com/sachuverma/React-E-Commerce-v2/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sachuverma/React-E-Commerce-v2.svg?style=for-the-badge
-[forks-url]: https://github.com/sachuverma/React-E-Commerce-v2/network/members
-[stars-shield]: https://img.shields.io/github/stars/sachuverma/React-E-Commerce-v2.svg?style=for-the-badge
-[stars-url]: https://github.com/sachuverma/React-E-Commerce-v2/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sachuverma/React-E-Commerce-v2.svg?style=for-the-badge
-[issues-url]: https://github.com/sachuverma/React-E-Commerce-v2/issues
-[license-shield]: https://img.shields.io/github/license/sachuverma/React-E-Commerce-v2.svg?style=for-the-badge
-[license-url]: https://github.com/sachuverma/React-E-Commerce-v2/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/sachuverma
-[product-screenshot]: src/images/user.png
-[login-screenshot]: src/images/login.png
-[auth-screenshot]: src/images/auth.png
+
